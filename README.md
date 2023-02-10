@@ -13,15 +13,17 @@
 
 游戏界面：
 
-![image-20230210210829509](C:/Users/h1585/AppData/Roaming/Typora/typora-user-images/image-20230210210829509.png)
+![image](https://user-images.githubusercontent.com/116665615/218103104-38264027-e1d2-46d1-b185-71b85e4f578c.png)
+
 
 触碰到障碍物即本次游戏结束，出现失败提示页面：
 
-![image-20230210211046540](C:/Users/h1585/AppData/Roaming/Typora/typora-user-images/image-20230210211046540.png)
+![image](https://user-images.githubusercontent.com/116665615/218103223-40692100-b8e6-44fe-aa04-07b9d159186e.png)
+
 
 绕过所有障碍物（或卡Bug）通关后出现以下提示界面：
 
-![image-20230210211158249](C:/Users/h1585/AppData/Roaming/Typora/typora-user-images/image-20230210211158249.png)
+![image](https://user-images.githubusercontent.com/116665615/218103560-7643aae8-a082-438d-bca4-4eba26280052.png)
 
 ### 📚更多信息
 
@@ -31,10 +33,10 @@
 
 - 沿着边界移动
 
-![image-20230210212026109](C:/Users/h1585/AppData/Roaming/Typora/typora-user-images/image-20230210212026109.png)
+![image](https://user-images.githubusercontent.com/116665615/218103371-aa864d27-ab89-4fa9-a8ac-d81e1654c1c7.png)
 
 掉下轨道（若干时间后会到达终点）：
 
-![image-20230210212143282](C:/Users/h1585/AppData/Roaming/Typora/typora-user-images/image-20230210212143282.png)
+![image](https://user-images.githubusercontent.com/116665615/218103640-fc13ce35-db51-4757-aba5-45c440a7ac1c.png)
 
-**以上Bug待修复。**
+**以上Bug待修复（**
