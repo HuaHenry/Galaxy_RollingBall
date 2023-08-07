@@ -1,6 +1,8 @@
 # Galaxy_RollingBall
 基于Unity 3D引擎开发、键盘和鼠标控制的简单小游戏。
 
+`创意来源：网易NetEase`
+
 ### 💻项目信息
 
 打包后的PC端可执行文件（Win 64bit）在`GalaxyBall_win64`文件夹中，其余均为程序源代码及配置文件等。
